@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">I'm a 10th grade student at Çapa Science High School. I love dealing with codes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=extypen&label=Profile%20views&color=0e75b6&style=flat" alt="extypen" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/myasirkilinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="myasirkilinc" height="30" width="40" /></a>
