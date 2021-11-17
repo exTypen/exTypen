@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
-<h3 align="center">I'm a 10th grade student at Çapa Science High School. I love dealing with codes.</h3>
+<h3 align="center">I'm a 11th grade student at Çapa Science High School. I love dealing with codes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
