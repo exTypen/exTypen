@@ -3,11 +3,10 @@
 
 ###
 
-<div>
-  ![](https://github-readme-stats.vercel.app/api?username=extypen&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=extypen&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=extypen&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=extypen&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
 
 ###
 
